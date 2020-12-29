@@ -1,5 +1,4 @@
 # Ubuntu_scripts
-UBUNTU Scripts
 
 ## FILES
 
