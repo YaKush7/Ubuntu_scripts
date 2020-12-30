@@ -11,8 +11,7 @@ FILE=/sys/class/power_supply/BAT0/charge_control_end_threshold
 helpFunction()
 {
    echo ""
-   echo "Usage: $0 [Mode]"
-   echo ""
+   echo "Usage: bash battery_controller.sh [Mode]"
    echo "MODES:"
    echo -e "\t-f \t set mode to Full Capacity [100%]"
    echo -e "\t-b \t set mode to Balanced [80%]"
