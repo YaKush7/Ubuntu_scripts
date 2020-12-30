@@ -10,7 +10,7 @@
 helpFunction()
 {
    echo ""
-   echo "Usage: dgpu [Name]"
+   echo "Usage: bash dgpu.sh [Name of program]"
    echo "EXAMPLE:"
    echo -e "\tdgpu glxheads :0"
    echo ""
