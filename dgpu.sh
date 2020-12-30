@@ -11,7 +11,6 @@ helpFunction()
 {
    echo ""
    echo "Usage: dgpu [Name]"
-   echo ""
    echo "EXAMPLE:"
    echo -e "\tdgpu glxheads :0"
    echo ""
