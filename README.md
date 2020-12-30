@@ -20,7 +20,7 @@ MODES:
 Runs a program on dedicated Nvidia GPU.<br />
 Prime profile should be set to NVIDIA ON DEMAND
 ```
-Usage: dgpu [Name]
+Usage: bash dgpu.sh [Name]
 EXAMPLE:
 	dgpu glxheads :0
 ```
