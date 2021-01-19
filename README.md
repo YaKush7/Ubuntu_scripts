@@ -24,3 +24,16 @@ Usage: bash dgpu.sh [Name of program]
 EXAMPLE:
 	dgpu glxheads :0
 ```
+### notice.py
+Fetches Student Alerts from DIT University's site
+```
+Usage: notice [option] [display options]
+
+OPTIONS:
+	-n	Displays first 3 entries
+	-a	Displays all entries in page 1
+```
+* Get executable
+```
+pyinstaller notice.py --onefile
+```
